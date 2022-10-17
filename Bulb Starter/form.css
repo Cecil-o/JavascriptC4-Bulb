@@ -1,0 +1,71 @@
+
+    
+    .main {
+        padding: 50px;
+        font-size: large;
+        font-family: cursive;
+        background-position: center;
+        
+    }
+
+    input{
+        background-color: #d4adf9;
+        font-size: medium;
+        height: 30px;
+        border: none;
+        color: #8301e9;
+        padding: 5px 3px;
+        
+    }
+    
+    form{
+        background-color: #8301e9;
+        width: 500px;
+        height: 450px;
+        padding: 30px;
+        display: flex;
+        flex-direction: column;
+        color: white;
+    }
+    .num1 {
+        display: flex;
+        justify-content: space-between;
+        gap: 10px;
+        padding: 5px 0;
+        
+    }
+    .con3 {
+        display: flex;
+        flex-direction: column;
+        width: 250px;
+        
+       
+    }
+
+    textarea {
+       width: 494px;
+       height: 150px;
+       font-size: large;
+       background-color: #d4adf9;
+       border: none;
+      
+        
+    }
+        
+   ::placeholder {
+    color: #8301e9;
+    font-size: medium;
+   }
+    
+   button {
+    width: 498px;
+    height: 30px;
+    color: #8301e9;
+    background-color: #a7ffe4;
+    border: none;
+    cursor: pointer;
+    font-size: medium;
+    margin-top: 20px;
+    letter-spacing: 5px;
+   }
+  
